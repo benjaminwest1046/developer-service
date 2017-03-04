@@ -29,7 +29,7 @@ public class Developer {
         this.name = name;
     }
 
-    public String slackName() {
+    public String getSlackName() {
         return slackName;
     }
 
